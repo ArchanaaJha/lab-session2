@@ -1,7 +1,7 @@
 package com.src;
-import java.util.Scanner;
 
 // WAP to find reverse of number
+import java.util.Scanner;
 
 public class Revnumber {
 	public static void main(String[]args) {
