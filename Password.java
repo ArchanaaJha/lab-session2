@@ -1,7 +1,7 @@
 package com.src;
-import java.util.Scanner;
 
 //WAP to check the condition for checking the correct password using if else.
+import java.util.Scanner;
 public class Password{
 	public static void main(String[] args)
 	{
