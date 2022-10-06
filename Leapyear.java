@@ -1,7 +1,6 @@
 package com.src;
-import java.util.Scanner;
-
 // WAP to check for Leap year.
+import java.util.Scanner;
 
 public class Leapyear {
 	public static void main(String[]args) {
