@@ -1,7 +1,6 @@
 package com.src;
-import java.util.Scanner;
-
 //WAP to create a reverse pyramid
+import java.util.Scanner;
 
 public class Pyramid {
 	public static void main(String[] args) 
