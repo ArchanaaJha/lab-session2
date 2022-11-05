@@ -12,10 +12,10 @@ class Linked_Liist {
 	//creating Linkedlist
 		LinkedList<Integer> ob= new LinkedList<>();
 		//adding object in Linkedlist
-	    ob.add(5);
 	    ob.add(6);
-	    ob.add(9);
-	    ob.add(7);
+	    ob.add(4);
+	    ob.add(2);
+	    ob.add(4);
 	  //printing the Linkedlist
 	    System.out.println("enter the element you want to search:");
 	    int n=sc.nextInt();
