@@ -13,10 +13,10 @@ class Arrayyy {
 	//creating arraylist
 		ArrayList<Integer> ob=new ArrayList<Integer>();
 	//adding object in arraylist
-	ob.add(4);
+	ob.add(6);
+	ob.add(7);
+	ob.add(3);
 	ob.add(2);
-	ob.add(5);
-	ob.add(8);
 	//printing the Arraylist
 	System.out.println("array list:"+ob);
 	//entering the element want to replace
