@@ -12,15 +12,15 @@ class Priority {
 		PriorityQueue<Integer> object = new PriorityQueue<>(Collections.reverseOrder());
 	      
 		   // Add numbers in the Queue
-		object.add(10);
-		object.add(22);
-		object.add(36);
-		object.add(25);
-		object.add(16);
-		object.add(70);
-		object.add(82);
+		object.add(12);
+		object.add(28);
+		object.add(45);
+		object.add(34);
+		object.add(18);
+		object.add(79);
+		object.add(83);
 		object.add(89);
-		object.add(14);
+		object.add(13);
 		
 			//Printing Original priority queue
 		   System.out.println("Original Priority Queue: "+object);
